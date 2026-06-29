@@ -30,3 +30,17 @@ git clone https://github.com/Deepthish07/Activity-Test.git
 ```bash
 cd Activity-Test
 ```
+## 📖 Git Commands Used
+
+Initialize Git
+
+```bash
+git init
+```
+
+Check status
+
+```bash
+git status
+```
+
