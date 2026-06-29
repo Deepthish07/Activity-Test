@@ -44,3 +44,14 @@ Check status
 git status
 ```
 
+Stage files
+
+```bash
+git add .
+```
+
+Commit changes
+
+```bash
+git commit -m "Initial commit"
+```
