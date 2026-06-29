@@ -10,3 +10,23 @@ This repository was created to:
 - Practice committing and pushing code
 - Understand GitHub repositories
 - Test GitHub contribution tracking
+## 📂 Repository Structure
+
+```
+Activity-Test/
+│── README.md
+```
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Deepthish07/Activity-Test.git
+```
+
+### Navigate into the project
+
+```bash
+cd Activity-Test
+```
