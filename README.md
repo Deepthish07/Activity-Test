@@ -1,6 +1,12 @@
-Contribution: 2026-06-27 20:00
+# Activity-Test
 
-Contribution: 2026-06-27 20:01
+A simple repository created to practice Git and GitHub workflows, including repository creation, commits, and pushing changes to GitHub.
 
-Contribution: 2026-06-28 20:00
+## 📌 About
 
+This repository was created to:
+
+- Learn Git fundamentals
+- Practice committing and pushing code
+- Understand GitHub repositories
+- Test GitHub contribution tracking
