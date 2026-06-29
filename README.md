@@ -55,3 +55,27 @@ Commit changes
 ```bash
 git commit -m "Initial commit"
 ```
+Connect to GitHub
+
+```bash
+git remote add origin https://github.com/Deepthish07/Activity-Test.git
+```
+
+Push to GitHub
+
+```bash
+git push -u origin main
+```
+## 🛠 Technologies
+
+- Git
+- GitHub
+
+## 👨‍💻 Author
+
+**Deepthish**
+
+- GitHub: https://github.com/Deepthish07
+- LinkedIn: https://www.linkedin.com/in/deepthid-d-422181242/
+
+---
